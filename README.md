@@ -30,13 +30,12 @@ Extracted crucial features from time series data, including county name, consump
 Using LightGBM and scikit-learn's algorithms chosen for their strength in capturing intricate relationships in energy behavior data.
 
 5. Model Training:
-
 Trained selected models, especially LightGBMRegressor, using historical data on energy consumption and production patterns.
 
 6. Evaluation:
-
 Assessed model effectiveness using the Mean Absolute Error (MAE) metric, providing key insights into predictive accuracy and generalization performance.
 
-(Code snippets and detailed algorithms can be accessed in the attached Jupyter notebook.)
+(Code snippets and detailed algorithms can be accessed in the attached Jupyter notebook.
+Point 1 in Exploratory Data Analysis, Point 2 in Data Visualization, Point 3456 in Machine Learning)
 
 **Results, conclusions, and reflections are documented separately for further detail.**
